@@ -1,2 +1,2 @@
-# C--Training
+# CSharpTraining
 Training the basics in C#
