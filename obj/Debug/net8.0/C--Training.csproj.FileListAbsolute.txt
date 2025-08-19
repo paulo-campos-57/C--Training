@@ -1,0 +1,15 @@
+/home/paulo/Área de trabalho/work/basicsCS/C--Training/bin/Debug/net8.0/C--Training
+/home/paulo/Área de trabalho/work/basicsCS/C--Training/bin/Debug/net8.0/C--Training.deps.json
+/home/paulo/Área de trabalho/work/basicsCS/C--Training/bin/Debug/net8.0/C--Training.runtimeconfig.json
+/home/paulo/Área de trabalho/work/basicsCS/C--Training/bin/Debug/net8.0/C--Training.dll
+/home/paulo/Área de trabalho/work/basicsCS/C--Training/bin/Debug/net8.0/C--Training.pdb
+/home/paulo/Área de trabalho/work/basicsCS/C--Training/obj/Debug/net8.0/C--Training.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulo/Área de trabalho/work/basicsCS/C--Training/obj/Debug/net8.0/C--Training.AssemblyInfoInputs.cache
+/home/paulo/Área de trabalho/work/basicsCS/C--Training/obj/Debug/net8.0/C--Training.AssemblyInfo.cs
+/home/paulo/Área de trabalho/work/basicsCS/C--Training/obj/Debug/net8.0/C--Training.csproj.CoreCompileInputs.cache
+/home/paulo/Área de trabalho/work/basicsCS/C--Training/obj/Debug/net8.0/C--Training.sourcelink.json
+/home/paulo/Área de trabalho/work/basicsCS/C--Training/obj/Debug/net8.0/C--Training.dll
+/home/paulo/Área de trabalho/work/basicsCS/C--Training/obj/Debug/net8.0/refint/C--Training.dll
+/home/paulo/Área de trabalho/work/basicsCS/C--Training/obj/Debug/net8.0/C--Training.pdb
+/home/paulo/Área de trabalho/work/basicsCS/C--Training/obj/Debug/net8.0/C--Training.genruntimeconfig.cache
+/home/paulo/Área de trabalho/work/basicsCS/C--Training/obj/Debug/net8.0/ref/C--Training.dll
