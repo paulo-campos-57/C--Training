@@ -7,6 +7,8 @@ namespace C__Training.Models
 {
     public class Calculator
     {
+
+        // Regular Calculator
         public double Add(double v1, double v2)
         {
             return v1 + v2;
@@ -32,6 +34,35 @@ namespace C__Training.Models
             {
                 return double.MaxValue;
             }
+        }
+
+        public double Power(double v1, double v2)
+        {
+            return Math.Pow(v1, v2);
+        }
+
+        public double SqrRoot(double v1)
+        {
+            return Math.Sqrt(v1);
+        }
+
+        // Angle Calculator
+        public double Sine(double angle)
+        {
+            double radian = angle * Math.PI / 180;
+            return Math.Sin(radian);
+        }
+
+        public double Cosine(double angle)
+        {
+            double radian = angle * Math.PI / 180;
+            return Math.Cos(radian);
+        }
+
+        public double Tangent(double angle)
+        {
+            double radian = angle * Math.PI / 180;
+            return Math.Tan(radian);
         }
     }
 }
